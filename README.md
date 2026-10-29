@@ -1,172 +1,102 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=TaskFlow%20Pro&fontSize=62&fontColor=ffffff&color=0:0f172a,50:0f766e,100:2563eb&stroke=14b8a6&strokeWidth=1&animation=fadeIn&desc=Focus%20Better.%20Accomplish%20More.&descSize=18&descAlignY=75" width="100%" alt="TaskFlow Pro banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0f766e,100:2563eb&height=200&section=header&text=TaskFlow%20Pro&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Plan%20Smarter.%20Get%20Things%20Done.&descSize=18&descAlignY=65" width="100%" alt="TaskFlow Pro banner"/>
 
-<br/>
+### A Clean, Responsive Task Management Web Application
 
-### A Modern Task Management Experience
-
-**Organize your work. Prioritize what matters. Track your progress.**
+Manage tasks, organize priorities, track deadlines, and monitor your productivity through a simple and interactive interface.
 
 <br/>
 
 <a href="https://yaseenbalochpk.github.io/TaskFlow-Pro/">
-  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-0D9488?style=for-the-badge&logoColor=white" alt="Live Demo"/>
+  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Open_TaskFlow_Pro-0F766E?style=for-the-badge" alt="Open Live Demo"/>
 </a>
 <a href="https://github.com/yaseenbalochpk/TaskFlow-Pro">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-</a>
-<a href="https://github.com/yaseenbalochpk/TaskFlow-Pro/issues">
-  <img src="https://img.shields.io/badge/ISSUES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/>
+  <img src="https://img.shields.io/badge/SOURCE_CODE-View_on_GitHub-181717?style=for-the-badge&logo=github" alt="View Source Code"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-Completed-16A34A?style=flat-square" alt="Project Status"/>
-<img src="https://img.shields.io/badge/TYPE-Frontend_Web_App-0F766E?style=flat-square" alt="Application Type"/>
-<img src="https://img.shields.io/badge/DEPLOYMENT-GitHub_Pages-334155?style=flat-square&logo=githubpages&logoColor=white" alt="Deployment"/>
-
-<br/><br/>
-
-*Built by [Yaseen Baloch](https://github.com/yaseenbalochpk) with a focus on practical development and productivity.*
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5"/>
+<img src="https://img.shields.io/badge/Deployment-GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages"/>
 
 </div>
 
 ---
 
-## 📌 Overview
+## 📌 About the Project
 
-**TaskFlow Pro** is a browser-based task management application designed to make everyday planning more organized, focused, and manageable.
+**TaskFlow Pro** is a frontend task management application designed to make daily planning more structured and manageable.
 
-It brings essential productivity features into one interface, allowing users to create tasks, assign priorities, set due dates, track completion, and review their progress.
+It brings essential productivity tools into one interface, helping users organize tasks, set priorities and due dates, track completion, and review their progress.
 
-Developed with core frontend technologies, this project demonstrates practical application development, interactive UI design, DOM manipulation, and browser-based data persistence.
+Built using HTML, CSS, JavaScript, and Bootstrap 5, the project demonstrates how core web technologies can be combined to create an interactive, browser-based application.
 
-> **The goal:** Turn a long to-do list into a clear, actionable workflow.
+**Live application:**  
+https://yaseenbalochpk.github.io/TaskFlow-Pro/
+
+---
+
+## ✨ Key Features
+
+| Feature | Description |
+|---|---|
+| 📝 Task Management | Create, edit, complete, and delete tasks |
+| 🎯 Priorities | Organize tasks according to importance |
+| 📅 Due Dates | Set deadlines and manage schedules |
+| 🔍 Search | Find tasks more easily |
+| 🗂️ Filters | View tasks by status |
+| 📊 Progress Tracking | Review task counts and completion progress |
+| 🌙 Theme Options | Switch between supported visual themes |
+| 💾 Local Storage | Keep supported task data in the browser |
+| 📱 Responsive UI | Use the application on supported screen sizes |
+
+---
+
+## 🛠️ Built With
 
 <div align="center">
 
-### ⚡ Start Managing Your Tasks
-
-**[Open TaskFlow Pro →](https://yaseenbalochpk.github.io/TaskFlow-Pro/)**
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github&theme=dark" alt="Technologies used"/>
 
 </div>
 
----
-
-## ✨ Features
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📝 Task Management
-
-- Create new tasks
-- Edit existing task titles
-- Delete individual tasks
-- Mark tasks as completed
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Task Organization
-
-- Assign task priorities
-- Set due dates
-- Search tasks by title
-- Filter all, completed, and pending tasks
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Progress Insights
-
-- View total tasks
-- Track completed tasks
-- Monitor pending tasks
-- View high-priority task counts
-- Check completion percentage
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ User Experience
-
-- Toggle dark and light themes
-- Save task data in browser storage
-- Retain theme preference
-- Use the application through a web browser
-
-</td>
-</tr>
-</table>
+- **HTML5** — Page structure
+- **CSS3** — Styling and layout
+- **JavaScript** — Application logic and interactivity
+- **Bootstrap 5** — Responsive UI components
+- **Web Storage API** — Browser-side data persistence
+- **Git & GitHub** — Version control and source hosting
+- **GitHub Pages** — Deployment
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ How It Works
 
-<div align="center">
+TaskFlow Pro runs in the user's browser.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" alt="HTML, CSS, JavaScript, Git and GitHub"/>
+1. Users enter and manage tasks through the interface.
+2. JavaScript processes task operations and updates the displayed information.
+3. Task information is stored locally through the browser's `localStorage`.
+4. The interface presents task status and progress information.
 
-<br/><br/>
-
-| Technology | Role |
-|:---|:---|
-| HTML5 | Application structure |
-| CSS3 | Layout, styling and visual presentation |
-| JavaScript | Task operations, events, filters and progress calculations |
-| Web Storage API | Local persistence of tasks and theme preference |
-| Git & GitHub | Version control and source code management |
-| GitHub Pages | Public website deployment |
-
-</div>
-
----
-
-## 🧠 How It Works
-
-TaskFlow Pro follows a client-side architecture.
-
-1. **Input:** The user creates a task with a title, priority, and due date.
-2. **Processing:** JavaScript manages task creation, editing, completion, deletion, and filtering.
-3. **Persistence:** Task data is stored in the browser using `localStorage`.
-4. **Visualization:** The interface displays task details and calculates completion statistics.
-5. **Preferences:** The selected theme is saved locally and restored when the application loads.
-
-### 💾 Important Data Note
-
-TaskFlow Pro uses browser-based storage rather than a remote database. Task data is associated with the browser and website origin where it was created. It does not automatically synchronize between devices or browsers.
-
-Clearing the browser's site data may remove locally stored tasks and preferences.
+> **Storage limitation:** Data stored in `localStorage` belongs to the current browser and website origin. It does not automatically synchronize across devices. Clearing site data may remove saved tasks.
 
 ---
 
 ## 🚀 Getting Started
 
-### Option 1 — Use the Live Application
+### Use the Live Demo
 
-No installation or development environment is required.
+No installation is required.
 
-<div align="center">
+**[Launch TaskFlow Pro →](https://yaseenbalochpk.github.io/TaskFlow-Pro/)**
 
-<a href="https://yaseenbalochpk.github.io/TaskFlow-Pro/">
-  <img src="https://img.shields.io/badge/OPEN_TASKFLOW_PRO-Visit_Live_Application-0D9488?style=for-the-badge" alt="Open live application"/>
-</a>
-
-</div>
-
-### Option 2 — Run Locally
-
-**Requirements**
-
-- A modern web browser
-- Git (optional, for cloning)
-- A code editor (optional)
+### Run Locally
 
 **1. Clone the repository**
 
@@ -174,19 +104,19 @@ No installation or development environment is required.
 git clone https://github.com/yaseenbalochpk/TaskFlow-Pro.git
 ```
 
-**2. Enter the project directory**
+**2. Navigate to the project**
 
 ```bash
 cd TaskFlow-Pro
 ```
 
-**3. Open the application**
+**3. Launch the application**
 
-Open `index.html` in a browser. Alternatively, use a local development server from your preferred editor.
+Open `index.html` in a modern browser. You may also use a local development server.
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```text
 TaskFlow-Pro/
@@ -200,86 +130,81 @@ TaskFlow-Pro/
 └── README.md
 ```
 
-| File | Description |
-|:---|:---|
+| File | Purpose |
+|---|---|
 | `index.html` | Main application interface |
-| `style.css` | Application styling |
-| `script.js` | Task management logic and interactions |
-| `manifest.json` | Web application manifest |
-| `service-worker.js` | Service worker entry point |
+| `style.css` | Styles and layout |
+| `script.js` | Task functionality and UI interactions |
+| `manifest.json` | Web application metadata |
+| `service-worker.js` | Service worker implementation |
 | `icon-192.png` | Application icon |
 | `icon-512.png` | High-resolution application icon |
 | `README.md` | Project documentation |
 
 ---
 
-## 🎓 What This Project Demonstrates
+## 💡 What I Practiced
 
-TaskFlow Pro brings several important frontend development concepts together in one project:
+This project helped me apply and strengthen practical frontend development concepts:
 
-- Working with the Document Object Model (DOM)
-- Handling user events and form submissions
-- Implementing CRUD operations
-- Managing arrays and objects in JavaScript
-- Filtering and searching application data
-- Persisting information with browser storage
-- Calculating and displaying live statistics
-- Managing UI themes and user preferences
-- Organizing a web project into separate files
-- Deploying a project through GitHub Pages
-
-The project serves as a practical example of turning programming fundamentals into a usable web application.
+- DOM manipulation and event handling
+- JavaScript functions, arrays, and objects
+- CRUD operations
+- Search and filtering logic
+- Browser storage
+- Responsive interface design
+- Task status and progress calculations
+- GitHub repository management
+- Website deployment with GitHub Pages
 
 ---
 
-## 🔮 Future Improvement Opportunities
+## 🔭 Future Possibilities
 
-Potential directions for future versions include:
+Possible improvements for future versions include:
 
-- [ ] Task categories and labels
-- [ ] Calendar-based task planning
-- [ ] Data export and import
-- [ ] Improved keyboard accessibility
+- [ ] Task export and import
+- [ ] Enhanced keyboard accessibility
+- [ ] Calendar-based planning
+- [ ] Automated tests
 - [ ] Optional cloud synchronization
-- [ ] Automated testing and validation
-- [ ] Enhanced offline functionality
 
-These are possible future improvements, not claims about features already implemented.
+These are potential enhancements, not features currently claimed as implemented.
 
 ---
 
-## 👨‍💻 About the Developer
+## 👨‍💻 Developer
 
 <div align="center">
 
 ### Yaseen Baloch
 
-**BS Computer Science Student · Python · C++ · Web Development · AI Automation**
+**BS Computer Science Student | Python | C++ | Web Development | AI Automation**
 
-A Computer Science student from Pakistan who enjoys learning through practice, building projects, solving problems, and exploring emerging technologies.
+I enjoy learning by building practical projects, improving my programming skills, and exploring useful technologies.
 
 <a href="https://github.com/yaseenbalochpk">
-  <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/muhammad-yaseen-b308b53b1">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="mailto:yaseenonliepk@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
 </a>
 
 </div>
 
 ---
 
-## ⭐ Support
+## ⭐ Support the Project
 
-If you find this project useful for learning or productivity:
+If you find TaskFlow Pro useful:
 
 - ⭐ Star the repository
-- 👀 Explore the implementation
-- 💬 Share feedback or report issues
-- 🤝 Suggest improvements through GitHub
+- 👀 Explore the source code
+- 💬 Share constructive feedback
+- 🤝 Suggest improvements
 
 **Repository:**  
 https://github.com/yaseenbalochpk/TaskFlow-Pro
@@ -291,12 +216,8 @@ https://yaseenbalochpk.github.io/TaskFlow-Pro/
 
 <div align="center">
 
-### Learn. Build. Improve. Repeat.
+**Learn • Build • Improve**
 
-**TaskFlow Pro — Make Every Task Count.**
-
-<br/>
-
-<sub>Designed and developed by <a href="https://github.com/yaseenbalochpk">Yaseen Baloch</a> · Pakistan 🇵🇰</sub>
+*TaskFlow Pro — Make Every Task Count.*
 
 </div>
